@@ -1,0 +1,23 @@
+h1{
+  font-style: oblique;
+  text-align: center;
+  font-family: 'Sriracha', cursive;
+}
+
+p{
+  font-family:monospace;
+  font-family: 'Sriracha', cursive;
+}
+
+body{
+  font-size: 15px;
+}
+
+#one{
+  font-size: 2.0em;
+  font-weight: bold;
+}
+
+p{
+  font-style: italic;
+}

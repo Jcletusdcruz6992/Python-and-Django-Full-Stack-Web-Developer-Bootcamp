@@ -1,0 +1,13 @@
+li{
+  color: blue;
+}
+body{
+  background-color: silver;
+}
+.one{
+  color: gold;
+}
+
+#two{
+  border: 3px solid gold;
+}

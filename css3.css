@@ -1,0 +1,23 @@
+.firstdivclass{
+  color: red;
+}
+.seconddivclass{
+  color: blue;
+}
+#singleton{
+  color: green;
+  text-decoration: overline;
+}
+
+h3+ul{
+  border: 8px dotted brown;
+}
+
+li a{
+  color: red;
+}
+
+li a[href="https://www.google.com/"]{
+  color: grey;
+  border: 5px solid pink;
+}

@@ -1,0 +1,46 @@
+body{
+  background-color: #282e59;
+  color: white;
+  border-left: 60px solid #41d9d6;
+  border-right: 60px solid #41d9d6;
+  border-bottom: 300px solid #41d9d6;
+  margin: auto;
+}
+h1{
+  text-align: center;
+}
+h2{
+  text-align: center;
+}
+p{5
+  text-align: center;
+  padding-left: 25%;
+  padding-right: 25%;
+  padding-top: 8%;
+  text-size 5%;
+}
+.one{
+  text-align: center;
+}
+
+form{
+  text-align: center;
+
+font-size: 2.0em;
+padding-bottom: 7%;
+}
+input{
+  font-size:2.0em;
+  text-align: center;
+
+}
+
+#five{
+  border-radius: 20px;
+  background: #f0ac1a;
+  border: 3px solid #f0ac1a;
+  border-width: 20px;
+  margin: auto;
+margin-top: 3%;
+
+}

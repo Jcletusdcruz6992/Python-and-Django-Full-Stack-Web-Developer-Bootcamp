@@ -1,0 +1,36 @@
+body{
+  background-color: #6aebd9;
+}
+h1{
+  border:solid;
+}
+#one{
+  background-color: yellow;
+}
+h4{
+color: #374273;
+}
+.three{
+  color: violet;
+  text-decoration: overline;
+}
+textarea{
+  border: 3px solid brown;
+}
+input{
+  border:2px solid red;
+}
+.nine{
+  background-color: blue;
+  border:5px dotted yellow ;
+}
+#two{
+  background-color: yellow;
+}
+a{
+  color: red;
+}
+
+a:visited{
+  color: blue;
+}

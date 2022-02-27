@@ -1,0 +1,41 @@
+h1{
+  font-family: 'Marck Script', cursive;
+  text-align: center;
+}
+#one{
+  margin: auto;
+  background-color: violet;
+  width: 25%;
+  padding: 20px;
+  border: 8px solid violet;
+  height: 500px;
+}
+#two{
+margin: auto;
+  background-color: indigo;
+  width: 25%;
+  padding: 20px;
+  border: 8px solid indigo;
+}
+#three{
+margin: auto;
+  background-color: blue;
+  width: 25%;
+  padding: 20px;
+  border: 8px solid blue;
+}
+#four{
+margin: auto;
+  background-color: green;
+  width: 25%;
+  padding: 20px;
+    border: 8px solid green;
+
+}
+#five{
+  margin: auto;
+    background-color: yellow ;
+    width: 25%;
+    padding: 20px;
+      border: 8px solid yellow ;
+}
