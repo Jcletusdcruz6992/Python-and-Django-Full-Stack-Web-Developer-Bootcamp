@@ -1,0 +1,3 @@
+$ conda create --name myDjangoEnv django
+$ conda activate myDjangoEnv
+$ conda deactivate
